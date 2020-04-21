@@ -1,5 +1,5 @@
 ## BLACKEYE v1.1
-### Coded by: @linux_choice (https://github.com/Blackeyenepal/Social-Hack)
+### Coded by:Arjun Adhikari (https://github.com/Blackeyenepal/Social-Hack)
 ### Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 ### Upgraded by: Arjun
 
